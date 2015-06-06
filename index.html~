@@ -1,0 +1,53 @@
+<!DOCTYPE>
+<html>
+<head>
+
+<script src="js.js"></script>
+<style>
+@import url('css.css');
+</style>
+
+
+
+</head>
+<body>
+
+<title>Georgi Chekanov</title>
+
+	
+	<header class="header">
+		<nav>
+			<a onclick="mac()">First tab</a>
+			<a onclick="imac()">Second tab</a>
+			<a onclick="ipod()">Third tab</a>
+			<a onclick="iphone()">Fourth tab</a>
+		</nav>
+	
+	</header>
+	
+
+	<div class="container">
+	
+		
+		<img src="mypic.jpg"  />
+		
+		<p id="buf"></p>
+		
+		
+		<p id="mac">Place for some text in first tab.</p>
+		
+		<p id="imac">Place for some text in second tab.</p>
+		
+		<p id="ipod">Place for some text in third tab.</p>
+		
+		<p id="iphone">Place for some text in fourth tab.</p>
+		
+	
+	</div>
+	
+	<footer class="footer">
+	Created by Georgi Chekanov</footer>
+
+
+</body>
+</html>
